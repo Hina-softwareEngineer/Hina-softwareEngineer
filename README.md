@@ -14,4 +14,10 @@
   <img src="https://profile-counter.glitch.me/Hina-softwareEnginer/count.svg" />
 </h4>
 
-<
+<img src="https://img.shields.io/badge/<badge>%20-%23<badge-color>.svg?&style=for-the-badge&logo=<badge>&logoColor=<logo-color>"/>
+
+FAce book links
+<hr style='height: 1px;' />
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hina-softwareEngineer&show_icons=true&theme=radical)](https://github.com/Hina-softwareEngineer/github-readme-stats)
