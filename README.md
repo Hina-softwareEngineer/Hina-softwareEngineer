@@ -38,6 +38,7 @@
 </div>
 
 <br />
+
 ##### ⚡️ Backend :
 
 <div style="display: flex; align-items: center;">
@@ -47,6 +48,7 @@
 </div>
 
 <br />
+
 ##### ⚡️ Other :
 
 <div style="display: flex; align-items: center;">
@@ -56,6 +58,7 @@
 </div>
 
 <br />
+
 ##### 🌟 Learning :
 
 <div style="display: flex; align-items: center;">
@@ -66,19 +69,21 @@
 </div>
 
 <br />
+
 #### 🤝 Connect with me:
 
-<a href="www.linkedin.com/in/hina-khadim-632845178">
+<a href="https://www.linkedin.com/in/hina-khadim-632845178">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="">
+<a href="https://twitter.com/hinaKhadim_2002">
 <img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
-<a href="">
+<a href="mailto:hinakhadim2002@gmail.com">
 <img src="https://img.shields.io/badge/gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/> 
 </a>
 
 <br />
+
 #### 📊 Stats :
 
 <div style="display: flex;">
