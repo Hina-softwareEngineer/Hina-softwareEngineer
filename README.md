@@ -38,6 +38,7 @@
 </div>
 
 <br />
+
 ##### ⚡️ Backend :
 
 <div style="display: flex; align-items: center;">
@@ -47,6 +48,7 @@
 </div>
 
 <br />
+
 ##### ⚡️ Other :
 
 <div style="display: flex; align-items: center;">
@@ -56,6 +58,7 @@
 </div>
 
 <br />
+
 ##### 🌟 Learning :
 
 <div style="display: flex; align-items: center;">
@@ -66,6 +69,7 @@
 </div>
 
 <br />
+
 #### 🤝 Connect with me:
 
 <a href="www.linkedin.com/in/hina-khadim-632845178">
@@ -79,6 +83,7 @@
 </a>
 
 <br />
+
 #### 📊 Stats :
 
 <div style="display: flex;">
