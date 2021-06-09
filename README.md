@@ -26,7 +26,7 @@
 ####  🔥 Tech Stack :
 <br />
 
-##### ⚡️ Fronted :
+##### ⚡️ Frontend :
 
 <div style="display: flex; align-items: center;">
 <img style="margin: 0 5px;" src='./tech-images/javascript.svg'  width="30" height="30" alt='Javascript' />
