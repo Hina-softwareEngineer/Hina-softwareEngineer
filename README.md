@@ -1,8 +1,12 @@
-#### Hi there! 👋
+<h1 align="center">
+  Hi 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  , I'm Hina Khadim
+</h1> 
 
-### I'm Hina Khadim 👩‍💻 Future Software Engineer 🇵🇰 🇵🇰
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Future+Software+Engineer)
+
 <hr style="height: 1px;">
-
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/Hina-softwareEngineer)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Hina-softwareEngineer)
 
