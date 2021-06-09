@@ -23,10 +23,10 @@
 
 <!-- <hr style='height: 1px;' /> -->
 
-####  🔥 Tech Stack :
+##  🔥 Tech Stack :
 <br />
 
-##### ⚡️ Fronted :
+## ⚡️ Fronted :
 
 <div style="display: flex; align-items: center;">
 <img style="margin: 0 5px;" src='./tech-images/javascript.svg'  width="30" height="30" alt='Javascript' />
@@ -39,7 +39,7 @@
 
 <br />
 
-##### ⚡️ Backend :
+## ⚡️ Backend :
 
 <div style="display: flex; align-items: center;">
 <img style="margin: 0 5px;" src='./tech-images/nodejs.svg'  width="50" height="50" alt='NodeJs' />
@@ -49,7 +49,7 @@
 
 <br />
 
-##### ⚡️ Other :
+## ⚡️ Other :
 
 <div style="display: flex; align-items: center;">
 <img style="margin: 0 5px;" src='./tech-images/firebase.png'  width="40" height="40" alt='Firebase' />
@@ -59,7 +59,7 @@
 
 <br />
 
-##### 🌟 Learning :
+## 🌟 Learning :
 
 <div style="display: flex; align-items: center;">
 <img style="margin: 0 5px;" src='./tech-images/netlify.svg'  width="30" height="40" alt='Netlify' />
@@ -70,7 +70,7 @@
 
 <br />
 
-#### 🤝 Connect with me:
+## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/hina-khadim-632845178">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -84,7 +84,7 @@
 
 <br />
 
-#### 📊 Stats :
+## 📊 Stats :
 
 <div style="display: flex;">
 
