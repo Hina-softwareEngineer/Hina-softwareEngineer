@@ -1,6 +1,6 @@
 #### Hi there! 👋
 
-### I'm Hina Khadim 👩‍💻 Future Software Engineer 🇵🇰 🇵🇰
+### I'm Hina Khadim 👩‍💻 Software Engineer 🇵🇰 🇵🇰
 <hr style="height: 1px;">
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/Hina-softwareEngineer)
@@ -11,7 +11,7 @@
 ##### An enthusiastic Full Stack Developer who is passionate about new technologies 😃
 
 - 🔭 I am currently working on Javascript
-- 🌱 I am currently learning Next.js & Graphql
+- 🌱 I am currently learning Design Patterns
 - 💫 Looking to contribute to open-source
 
 <!-- <h4 align="center"> 
